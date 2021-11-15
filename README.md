@@ -5,4 +5,4 @@ Now a days online hotel booking sector is suffering from loss in revenue. One of
 # H2.CSV file contain the information about City Hotal
 # descriptive statistics.pynb  is a python file which contain the descriptive statistics about  the hotel data set.
 # hotaldataClean1.csv file contain the information about clean data of the hotel
-# initial analysis and modeling.ipynb contain the information about intial codes of the research question.
+# initial analysis and modeling.ipynb contain the python codes about intial codes of the Project.
