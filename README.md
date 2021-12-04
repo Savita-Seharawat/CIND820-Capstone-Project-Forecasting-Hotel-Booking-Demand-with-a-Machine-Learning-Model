@@ -7,4 +7,4 @@ Now a days online hotel booking sector is suffering from loss in revenue. One of
 # hotaldataClean1.csv file contain the information about clean data of the hotel
 # initial analysis and modeling.ipynb contain the python codes about intial codes of the Project.
 # FinalprojectSavitaSeharawat.ipynb contain the final code (data preprocessing, Exploratory Data Analysis, Experimental Design,and Models Implementation and Evaluation )
- 
+# FinalprojectSavitaSeharawat.pdf contain the final code (data preprocessing, Exploratory Data Analysis, Experimental Design,and Models Implementation and Evaluation )
